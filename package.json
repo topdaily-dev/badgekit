@@ -1,0 +1,43 @@
+{
+  "name": "badgekit",
+  "version": "0.1.0",
+  "description": "Generate shields.io README badge rows from the terminal",
+  "type": "module",
+  "publishConfig": {
+    "access": "public"
+  },
+  "bin": {
+    "badgekit": "bin/badgekit.mjs"
+  },
+  "files": [
+    "bin",
+    "lib",
+    "README.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "test": "node --test lib/*.test.mjs"
+  },
+  "keywords": [
+    "readme",
+    "badges",
+    "shields",
+    "github",
+    "markdown",
+    "cli",
+    "developer-tools"
+  ],
+  "license": "MIT",
+  "author": "TopDaily Dev",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/topdaily-dev/badgekit.git"
+  },
+  "homepage": "https://github.com/topdaily-dev/badgekit#readme",
+  "bugs": {
+    "url": "https://github.com/topdaily-dev/badgekit/issues"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
