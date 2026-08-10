@@ -5,6 +5,7 @@
 ### Added
 
 - Additional examples for npm-only and GitHub-only badge rows
+- Unit tests for downloads, stars, custom workflow, and license badges
 
 ## [0.1.1] - 2026-08-10
 
