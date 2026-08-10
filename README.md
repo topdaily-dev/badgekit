@@ -60,6 +60,8 @@ badgekit list
 
 ## Examples
 
+See [examples/basic.md](examples/basic.md), [examples/npm-project.md](examples/npm-project.md), and [examples/github-only.md](examples/github-only.md).
+
 HTML output for centered README rows:
 
 ```bash
