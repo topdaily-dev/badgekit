@@ -1,7 +1,7 @@
 # npm-only README badge row
 
 ```bash
-badgekit row npm downloads license \
+badgekit row npm downloads license node \
   --npm @topdaily-dev/badgekit
 ```
 
