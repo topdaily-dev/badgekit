@@ -8,6 +8,7 @@
 - Unit tests for downloads, stars, custom workflow, and license badges
 - Unit tests for node, release, parseFlags workflow, and multi-badge rows
 - Validation tests for required flags on ci and downloads presets
+- Href assertions and default preset coverage for license and node badges
 
 ## [0.1.1] - 2026-08-10
 
