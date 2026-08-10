@@ -21,7 +21,7 @@ badgekit row ci npm license --owner topdaily-dev --repo badgekit --npm @topdaily
 
 | Badge | Command fragment |
 |-------|------------------|
-| CI | `ci --owner OWNER --repo REPO` |
+| CI | `ci --owner OWNER --repo REPO` (optional `--workflow FILE`) |
 | npm | `npm --npm @scope/pkg` |
 | Stars | `stars --owner OWNER --repo REPO` |
 | Release | `release --owner OWNER --repo REPO` |
