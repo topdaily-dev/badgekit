@@ -1,0 +1,15 @@
+# Changelog
+
+## [Unreleased]
+
+### Added
+
+- Additional examples for npm-only and GitHub-only badge rows
+
+## [0.1.1] - 2026-08-10
+
+- Publish as `@topdaily-dev/badgekit` scoped npm package
+
+## [0.1.0] - 2026-08-10
+
+- Initial CLI release with ci, npm, license, node, release, downloads, and stars presets
