@@ -68,6 +68,11 @@ HTML output for centered README rows:
   badgekit row ci npm license --owner topdaily-dev --repo badgekit --npm @topdaily-dev/badgekit --format html
 ```
 
+GitHub stars badge:
+
+```bash
+badgekit row stars --owner topdaily-dev --repo badgekit
+```n
 Custom CI workflow file:
 
 ```bash
