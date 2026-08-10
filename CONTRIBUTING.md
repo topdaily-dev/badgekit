@@ -34,3 +34,10 @@ Include:
 - badgekit version (`badgekit --help` or `npm ls @topdaily-dev/badgekit`)
 - command you ran
 - expected vs actual output
+
+## Pair programming
+
+Add a co-author trailer for shared work:
+
+```nCo-authored-by: Name <id+user@users.noreply.github.com>
+```n
