@@ -44,7 +44,7 @@ Output:
 
 | ID | Requires |
 |----|----------|
-| `ci` | `--owner`, `--repo` |
+| `ci` | `--owner`, `--repo`, optional `--workflow` |
 | `npm` | `--npm` |
 | `license` | optional `--license` (default MIT) |
 | `node` | optional `--node` (default `>=20`) |
