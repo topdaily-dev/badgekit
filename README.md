@@ -89,6 +89,8 @@ npm test
 node bin/badgekit.mjs --help
 ```
 
+See [CONTRIBUTING.md](CONTRIBUTING.md) for PR guidelines.
+
 ## License
 
 MIT — see [LICENSE](LICENSE).
