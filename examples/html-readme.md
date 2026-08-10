@@ -13,3 +13,6 @@ Generate the row:
 ```bash
 badgekit row ci npm license --owner topdaily-dev --repo badgekit --npm @topdaily-dev/badgekit --format html
 ```
+
+Wrap the output in <p align="center"> tags for centered README rows.
+
