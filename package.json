@@ -1,5 +1,5 @@
 {
-  "name": "badgekit",
+  "name": "@topdaily-dev/badgekit",
   "version": "0.1.0",
   "description": "Generate shields.io README badge rows from the terminal",
   "type": "module",
@@ -16,7 +16,8 @@
     "LICENSE"
   ],
   "scripts": {
-    "test": "node --test lib/*.test.mjs"
+    "test": "node --test lib/*.test.mjs",
+    "prepublishOnly": "npm test"
   },
   "keywords": [
     "readme",
@@ -33,7 +34,7 @@
     "type": "git",
     "url": "git+https://github.com/topdaily-dev/badgekit.git"
   },
-  "homepage": "https://github.com/topdaily-dev/badgekit#readme",
+  "homepage": "https://www.npmjs.com/package/@topdaily-dev/badgekit",
   "bugs": {
     "url": "https://github.com/topdaily-dev/badgekit/issues"
   },

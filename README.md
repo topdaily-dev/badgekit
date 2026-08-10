@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.shields.io/npm/v/badgekit.svg" alt="npm version">
+  <img src="https://img.shields.io/npm/v/@topdaily-dev/badgekit.svg" alt="npm version">
   <a href="https://github.com/topdaily-dev/badgekit/actions/workflows/ci.yml"><img src="https://github.com/topdaily-dev/badgekit/actions/workflows/ci.yml/badge.svg" alt="CI"></a>
   <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT">
   <img src="https://img.shields.io/badge/node-%3E%3D20-brightgreen" alt="Node">
@@ -28,16 +28,16 @@ No config files. No framework. Plain terminal output you own.
 ## Quick start
 
 ```bash
-npx badgekit row ci npm license node \
+npx @topdaily-dev/badgekit row ci npm license node \
   --owner topdaily-dev \
   --repo badgekit \
-  --npm badgekit
+  --npm @topdaily-dev/badgekit
 ```
 
 Output:
 
 ```markdown
-[![CI](https://github.com/topdaily-dev/badgekit/actions/workflows/ci.yml/badge.svg)](https://github.com/topdaily-dev/badgekit/actions/workflows/ci.yml) [![npm version](https://img.shields.io/npm/v/badgekit.svg)](https://www.npmjs.com/package/badgekit) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE) [![Node](https://img.shields.io/badge/node-%3E%3D20-brightgreen)](package.json)
+[![CI](https://github.com/topdaily-dev/badgekit/actions/workflows/ci.yml/badge.svg)](https://github.com/topdaily-dev/badgekit/actions/workflows/ci.yml) [![npm version](https://img.shields.io/npm/v/@topdaily-dev/badgekit.svg)](https://www.npmjs.com/package/@topdaily-dev/badgekit) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE) [![Node](https://img.shields.io/badge/node-%3E%3D20-brightgreen)](package.json)
 ```
 
 ## Badges
@@ -63,7 +63,7 @@ badgekit list
 HTML output for centered README rows:
 
 ```bash
-badgekit row ci npm license --owner topdaily-dev --repo badgekit --npm badgekit --format html
+  badgekit row ci npm license --owner topdaily-dev --repo badgekit --npm @topdaily-dev/badgekit --format html
 ```
 
 Custom CI workflow file:
@@ -75,7 +75,7 @@ badgekit row ci --owner topdaily-dev --repo badgekit --workflow test.yml
 ## Install
 
 ```bash
-npm install -g badgekit
+npm install -g @topdaily-dev/badgekit
 ```
 
 ## Development
