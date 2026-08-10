@@ -60,7 +60,7 @@ badgekit list
 
 ## Examples
 
-See [examples/basic.md](examples/basic.md), [examples/npm-project.md](examples/npm-project.md), and [examples/github-only.md](examples/github-only.md).
+See [examples/basic.md](examples/basic.md), [examples/npm-project.md](examples/npm-project.md), and [examples/github-only.md](examples/github-only.md), and [examples/html-readme.md](examples/html-readme.md).
 
 HTML output for centered README rows:
 
