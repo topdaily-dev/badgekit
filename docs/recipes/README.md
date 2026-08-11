@@ -38,3 +38,4 @@
 - [example-html](./example-html.md)
 - [example-basic](./example-basic.md)
 - [contributing](./contributing.md)
+- [changelog](./changelog.md)
