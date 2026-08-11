@@ -19,3 +19,4 @@
 - [ci-and-npm](./ci-and-npm.md)
 - [oss-starter](./oss-starter.md)
 - [cli-help](./cli-help.md)
+- [validate-owner](./validate-owner.md)
