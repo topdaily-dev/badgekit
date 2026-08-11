@@ -28,3 +28,4 @@
 - [copy-paste](./copy-paste.md)
 - [monorepo](./monorepo.md)
 - [private-repo](./private-repo.md)
+- [actions-path](./actions-path.md)
