@@ -29,3 +29,4 @@
 - [monorepo](./monorepo.md)
 - [private-repo](./private-repo.md)
 - [actions-path](./actions-path.md)
+- [release-latest](./release-latest.md)
