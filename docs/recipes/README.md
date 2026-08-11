@@ -30,3 +30,4 @@
 - [private-repo](./private-repo.md)
 - [actions-path](./actions-path.md)
 - [release-latest](./release-latest.md)
+- [downloads-period](./downloads-period.md)
