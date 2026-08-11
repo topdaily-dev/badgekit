@@ -43,3 +43,4 @@
 - [install-npx](./install-npx.md)
 - [install-global](./install-global.md)
 - [ci-matrix](./ci-matrix.md)
+- [badge-order](./badge-order.md)
