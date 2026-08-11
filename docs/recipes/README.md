@@ -40,3 +40,4 @@
 - [contributing](./contributing.md)
 - [changelog](./changelog.md)
 - [node-engine](./node-engine.md)
+- [install-npx](./install-npx.md)
