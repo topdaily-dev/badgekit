@@ -11,3 +11,4 @@
 - [multi-row](./multi-row.md)
 - [workflow](./workflow.md)
 - [github-only](./github-only.md)
+- [npm-only](./npm-only.md)
