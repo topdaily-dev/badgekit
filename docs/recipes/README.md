@@ -27,3 +27,4 @@
 - [markdown-default](./markdown-default.md)
 - [copy-paste](./copy-paste.md)
 - [monorepo](./monorepo.md)
+- [private-repo](./private-repo.md)
