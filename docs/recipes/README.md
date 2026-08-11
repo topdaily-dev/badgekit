@@ -37,3 +37,4 @@
 - [example-npm](./example-npm.md)
 - [example-html](./example-html.md)
 - [example-basic](./example-basic.md)
+- [contributing](./contributing.md)
