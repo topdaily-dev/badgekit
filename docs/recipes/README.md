@@ -10,3 +10,4 @@
 - [html-format](./html-format.md)
 - [multi-row](./multi-row.md)
 - [workflow](./workflow.md)
+- [github-only](./github-only.md)
