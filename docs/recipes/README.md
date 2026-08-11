@@ -24,3 +24,4 @@
 - [validate-npm](./validate-npm.md)
 - [default-license](./default-license.md)
 - [default-node](./default-node.md)
+- [markdown-default](./markdown-default.md)
