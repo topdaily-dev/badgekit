@@ -15,3 +15,4 @@
 - [readme-center](./readme-center.md)
 - [pair-trailer](./pair-trailer.md)
 - [shields-colors](./shields-colors.md)
+- [scoped-npm](./scoped-npm.md)
