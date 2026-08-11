@@ -1,0 +1,3 @@
+# CLI help
+
+badgekit --help
