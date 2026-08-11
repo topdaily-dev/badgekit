@@ -32,3 +32,4 @@
 - [release-latest](./release-latest.md)
 - [downloads-period](./downloads-period.md)
 - [escape-node](./escape-node.md)
+- [license-spdx](./license-spdx.md)
