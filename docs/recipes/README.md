@@ -4,3 +4,4 @@
 - [npm-basic](./npm-basic.md)
 - [downloads](./downloads.md)
 - [stars](./stars.md)
+- [release](./release.md)
