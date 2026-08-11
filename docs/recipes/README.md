@@ -14,3 +14,4 @@
 - [npm-only](./npm-only.md)
 - [readme-center](./readme-center.md)
 - [pair-trailer](./pair-trailer.md)
+- [shields-colors](./shields-colors.md)
