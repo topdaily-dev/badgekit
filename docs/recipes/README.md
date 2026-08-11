@@ -20,3 +20,4 @@
 - [oss-starter](./oss-starter.md)
 - [cli-help](./cli-help.md)
 - [validate-owner](./validate-owner.md)
+- [validate-repo](./validate-repo.md)
