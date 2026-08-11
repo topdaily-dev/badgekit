@@ -2,3 +2,4 @@
 
 - [ci-basic](./ci-basic.md)
 - [npm-basic](./npm-basic.md)
+- [downloads](./downloads.md)
