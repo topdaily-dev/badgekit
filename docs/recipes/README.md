@@ -12,3 +12,4 @@
 - [workflow](./workflow.md)
 - [github-only](./github-only.md)
 - [npm-only](./npm-only.md)
+- [readme-center](./readme-center.md)
