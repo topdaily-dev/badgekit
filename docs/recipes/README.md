@@ -22,3 +22,4 @@
 - [validate-owner](./validate-owner.md)
 - [validate-repo](./validate-repo.md)
 - [validate-npm](./validate-npm.md)
+- [default-license](./default-license.md)
