@@ -35,3 +35,4 @@
 - [license-spdx](./license-spdx.md)
 - [example-github](./example-github.md)
 - [example-npm](./example-npm.md)
+- [example-html](./example-html.md)
