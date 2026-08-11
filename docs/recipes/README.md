@@ -25,3 +25,4 @@
 - [default-license](./default-license.md)
 - [default-node](./default-node.md)
 - [markdown-default](./markdown-default.md)
+- [copy-paste](./copy-paste.md)
