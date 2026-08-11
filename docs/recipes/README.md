@@ -44,3 +44,4 @@
 - [install-global](./install-global.md)
 - [ci-matrix](./ci-matrix.md)
 - [badge-order](./badge-order.md)
+- [alt-text](./alt-text.md)
