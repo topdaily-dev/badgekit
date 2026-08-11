@@ -46,3 +46,4 @@
 - [badge-order](./badge-order.md)
 - [alt-text](./alt-text.md)
 - [troubleshooting](./troubleshooting.md)
+- [security](./security.md)
