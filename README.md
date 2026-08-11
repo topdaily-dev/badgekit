@@ -72,7 +72,8 @@ GitHub stars badge:
 
 ```bash
 badgekit row stars --owner topdaily-dev --repo badgekit
-```n
+```
+
 Custom CI workflow file:
 
 ```bash
@@ -84,6 +85,17 @@ badgekit row ci --owner topdaily-dev --repo badgekit --workflow test.yml
 ```bash
 npm install -g @topdaily-dev/badgekit
 ```
+
+## Check repo health with repomark
+
+After badges, score the rest of your OSS checklist:
+
+```bash
+npx @topdaily-dev/repomark check .
+npx @topdaily-dev/repomark fix . --dry-run
+```
+
+See **[repomark](https://github.com/topdaily-dev/repomark)** — README, license, contributing, security, package.json, and CI in one score.
 
 ## Development
 
