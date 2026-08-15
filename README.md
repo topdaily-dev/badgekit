@@ -51,8 +51,18 @@ Output:
 | `release` | `--owner`, `--repo` |
 | `downloads` | `--npm` |
 | `stars` | `--owner`, `--repo` |
+| `codecov` | `--owner`, `--repo` |
+| `bundle-size` | `--npm` |
+| `openssf` | `--owner`, `--repo` |
 
-List all badge ids:
+## Validate badge URLs
+
+```bash
+badgekit validate .
+badgekit validate row ci npm --owner topdaily-dev --repo badgekit --npm @topdaily-dev/badgekit
+```
+
+HEAD-checks image URLs in your README (or generated badge src/href links).
 
 ```bash
 badgekit list

@@ -2,18 +2,22 @@
 
 ## [Unreleased]
 
+## [0.2.0] - 2026-08-15
+
 ### Added
 
-- Additional examples for npm-only and GitHub-only badge rows
-- Unit tests for downloads, stars, custom workflow, and license badges
-- Unit tests for node, release, parseFlags workflow, and multi-badge rows
-- Validation tests for required flags on ci and downloads presets
-- Href assertions and default preset coverage for license and node badges
+- `badgekit validate` scans README badge image URLs for HTTP reachability
+- `badgekit validate row …` checks generated badge src/href links
+- New badge types: `codecov`, `bundle-size`, `openssf`
 
-## [0.1.1] - 2026-08-10
+## [0.1.1] - 2026-08-11
 
-- Publish as `@topdaily-dev/badgekit` scoped npm package
+### Fixed
 
-## [0.1.0] - 2026-08-10
+- npm registry visibility
 
-- Initial CLI release with ci, npm, license, node, release, downloads, and stars presets
+## [0.1.0] - 2026-08-11
+
+### Added
+
+- `badgekit row` badge generator for shields.io README rows
