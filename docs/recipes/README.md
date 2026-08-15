@@ -47,3 +47,4 @@
 - [alt-text](./alt-text.md)
 - [troubleshooting](./troubleshooting.md)
 - [security](./security.md)
+- [repomark-check](./repomark-check.md)
