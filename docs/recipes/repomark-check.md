@@ -15,3 +15,9 @@ In CI:
 ```
 
 See [repomark README](https://github.com/topdaily-dev/repomark#readme) for fix suggestions (`fix --dry-run`).
+
+Install repomark CI via collab-kit:
+
+```bash
+npx @korykaai/collab-kit init . --oss-toolchain
+```
