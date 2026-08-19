@@ -107,6 +107,17 @@ npx @topdaily-dev/repomark fix . --dry-run
 
 See **[repomark](https://github.com/topdaily-dev/repomark)** — README, license, contributing, security, package.json, and CI in one score.
 
+## Bootstrap with collab-kit
+
+Scaffold team workflows plus this toolchain in one command:
+
+```bash
+npx @korykaai/collab-kit init . --oss-toolchain
+collab-kit enable-hooks .
+```
+
+See [collab-kit oss-toolchain](https://github.com/kory-kaai/collab-kit/blob/main/examples/oss-toolchain.md).
+
 ## Development
 
 ```bash
