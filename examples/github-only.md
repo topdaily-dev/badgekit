@@ -13,3 +13,5 @@ For open-source repos that are not published to npm.
 ```bash
 badgekit row ci --owner topdaily-dev --repo badgekit --workflow ci.yml
 ```
+
+Bootstrap badges with: npx @korykaai/collab-kit init . --oss-toolchain
