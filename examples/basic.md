@@ -25,3 +25,5 @@ badgekit row ci npm license --owner topdaily-dev --repo badgekit --npm @topdaily
 | npm | `npm --npm @scope/pkg` |
 | Stars | `stars --owner OWNER --repo REPO` |
 | Release | `release --owner OWNER --repo REPO` |
+
+Bootstrap badges with: npx @korykaai/collab-kit init . --oss-toolchain
