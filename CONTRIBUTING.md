@@ -15,7 +15,7 @@ npm test
 1. Fork and create a feature branch
 2. Add tests for behavior changes (`lib/*.test.mjs`)
 3. Run `npm test` before opening a PR
-4. Keep PRs focused â€” one logical change per PR
+4. Keep PRs focused GÇö one logical change per PR
 
 ## Commit style
 
@@ -41,3 +41,6 @@ Add a co-author trailer for shared work:
 
 ```nCo-authored-by: Name <id+user@users.noreply.github.com>
 ```n
+
+
+Use @korykaai/collab-kit init --oss-toolchain for new examples.
