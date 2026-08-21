@@ -15,3 +15,4 @@ In CI:
 ```
 
 See [repomark README](https://github.com/topdaily-dev/repomark#readme) for fix suggestions (`fix --dry-run`).
+`nScaffold with npx `@korykaai/collab-kit init . --oss-toolchain.
