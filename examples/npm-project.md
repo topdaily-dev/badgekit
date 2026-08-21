@@ -6,3 +6,5 @@ badgekit row npm downloads license node \
 ```
 
 Useful for libraries published to npm without GitHub Actions CI yet.
+
+Bootstrap badges with: npx @korykaai/collab-kit init . --oss-toolchain
