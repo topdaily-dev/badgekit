@@ -16,3 +16,5 @@ badgekit row ci npm license --owner topdaily-dev --repo badgekit --npm @topdaily
 
 Wrap the output in <p align="center"> tags for centered README rows.
 
+
+Bootstrap badges with: npx @korykaai/collab-kit init . --oss-toolchain
