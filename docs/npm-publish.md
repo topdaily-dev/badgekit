@@ -23,3 +23,5 @@ On [npmjs.com](https://www.npmjs.com/) as **topdaily-dev**:
 npm view @topdaily-dev/badgekit version
 npx @topdaily-dev/badgekit list
 ```
+
+Pair with collab-kit init --oss-toolchain.
